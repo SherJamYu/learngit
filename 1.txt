@@ -1,4 +1,0 @@
-this is a new file without modifying
-this is the second edtion
-this is branch 1
-this is branch master

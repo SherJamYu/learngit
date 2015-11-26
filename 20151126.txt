@@ -1,3 +1,3 @@
 Learn about git 
 client modified
-TEST ╩ьмк
+TEST 

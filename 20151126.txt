@@ -1,2 +1,6 @@
 Learn about git 
+<<<<<<< HEAD
 client modified
+=======
+TEST »ØÍË
+>>>>>>> 59d403f9b57382da69bba3f4b2299acd9d4e135f
